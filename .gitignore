@@ -1,0 +1,6 @@
+**/target/
+**/.vscode/
+**/.tools/
+**/.m2/
+**/graphify-out/
+**/data/
