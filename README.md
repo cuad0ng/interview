@@ -59,6 +59,8 @@ backend-interview/
 
 ## 3. Main Project
 
+Implemented services: [order-service](project/order-service/README.md), [auth-service](project/auth-service/README.md), and [product-service](project/product-service/README.md).
+
 The main project is a simplified **e-commerce / order management system**.
 
 Start small.
